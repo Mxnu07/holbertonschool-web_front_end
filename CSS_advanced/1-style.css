@@ -1,4 +1,4 @@
-/* changing scrolling behavior */
+/* Specifies scrolling behavior */
 html {
     scroll-behavior: smooth; /* o auto */
   }
